@@ -1,0 +1,16 @@
+body{
+	background-image: url("Alok.jpg");
+	background-color:#000fff;
+	padding-top:270px;
+	
+}
+.wrap{
+	color:green;
+	min-width:600px;
+	font-size:250%;
+	width:40%;
+	height:30%;
+	margin:left;
+	background:#000;
+	padding-top:20px;
+     }
